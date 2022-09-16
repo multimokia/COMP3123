@@ -1,0 +1,30 @@
+{
+  "name": "comp3123-fullstackdevelopment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\"\"",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest test ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/multimokia/COMP3123.git"
+  },
+  "keywords": [
+    "npm",
+    "eslint",
+    "labs"
+  ],
+  "author": "Misty D'mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/multimokia/COMP3123/issues"
+  },
+  "homepage": "https://github.com/multimokia/COMP3123#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  }
+}
